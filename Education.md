@@ -3,6 +3,8 @@ layout: page
 title: Education
 ---
 
+
+should work
 <p align="justify">
  My name is Inigo Montoya. I have the following qualities Lorem ipsum
 </p>
