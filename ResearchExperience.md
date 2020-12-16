@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Background
-subtitle: My main research work during my studies {: .box-note} Audio Signal processing, Machine Learning, Deep Learning, Biological Signal Processing
+subtitle: My main research work during my studies{: .box-note} Audio Signal processing, Machine Learning, Deep Learning, Biological Signal Processing
 ---
 
 {: .box-note}
