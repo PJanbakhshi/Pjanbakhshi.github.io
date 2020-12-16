@@ -16,7 +16,7 @@ author: PJ
 navbar-links:
   About Me: "aboutme"
   Education: "aboutme"
-  Publication: 
+  Publication: "publication"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
