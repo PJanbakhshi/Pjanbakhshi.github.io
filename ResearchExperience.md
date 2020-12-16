@@ -5,7 +5,8 @@ subtitle: My main research work during my studies
 ---
 
 {: .box-note}
-**Audio Signal processing, Machine Learning, Deep Learning, Biological Signal Processing
+Audio Signal processing, Machine Learning, Deep Learning, Biological Signal Processing
+
 <br />
 
 My current research:
