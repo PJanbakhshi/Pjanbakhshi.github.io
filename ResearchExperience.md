@@ -20,7 +20,7 @@ During my Master's studies, I worked on biological signal processing with my Mas
 ### Research 
 
 {: .box-note}
--This is a notification box.
+**This is a notification box.
 
 ```javascript
 var foo = function(x) {
