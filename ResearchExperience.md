@@ -12,7 +12,7 @@ Automatic pathological speech assessment can provide reliable and cost-effective
 For my PhD research, I am working on developing reliable and novel machine learning and signal processing techniques for analysing continous speech for clinical applications applicable to different pathological conditions and languages.
  
 
-
+\_\\
 
 
 My previous research:
