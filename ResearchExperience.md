@@ -5,9 +5,9 @@ subtitle: My main research work during my studies
 ---
 
 
-
-:blue_book: PhD Thesis on
-Automatic intelligibility assessment, detection, and classification of pathological speech
+2018–current: PhD in Electrical Engineering
+École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+PhD Thesis: Automatic intelligibility assessment, detection, and classification of pathological speech
 
 
 - I 
