@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research Experience
+title: Research Background
 subtitle: My main research work during my studies
 ---
 
