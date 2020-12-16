@@ -13,7 +13,7 @@ For my PhD research, I am working on developing reliable and novel machine learn
 
 \
 \
-\
+
 
 
 My previous research:
