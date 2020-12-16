@@ -13,7 +13,7 @@ author: Paravneh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research Experience: "aboutme"
+  Research Experience: "ResearchExperience.md"
   Education: "aboutme"
   Publication: "publication"
   Contact: "aboutme"
