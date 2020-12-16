@@ -13,10 +13,10 @@ author: Paravneh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research Experience: "ResearchExperience.md"
-  Education: "Education.md"
+  Research Experience: "ResearchExperience"
+  Education: "Education"
   Publication: "publication"
-  Contact: "Contact.md"
+  Contact: "Contact"
 
 # --- Logo --- #
 
