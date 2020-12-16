@@ -12,6 +12,10 @@ title: Education
 - I 
 - I'm extremely loyal to my family
 
+* Bullet 1
+* Bullet 2
+  * Bullet 2a
+  * Bullet 2b
 What else do you need?
 
 ### My story
