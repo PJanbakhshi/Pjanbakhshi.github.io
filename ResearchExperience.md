@@ -6,9 +6,9 @@ subtitle: My main research work during my studies
 
 
 
-| :blue_book:   | PhD Thesis    | PhD Thesis Automatic intelligibility assessment, detection, and classification of pathological speech|
+| :blue_book:   | PhD Thesis     | 
 |---------------|:------------------------|
-
+|PhD Thesis Automatic intelligibility assessment, detection, and classification of pathological speech|
 
 
 - I 
