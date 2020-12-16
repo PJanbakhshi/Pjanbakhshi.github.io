@@ -12,7 +12,7 @@ For my PhD research, I am working on developing reliable and novel machine learn
 
 
 My previous research:
-During my Master's studies, I worked on biological signal processing with my thesis especially focused on the extraction of respiratory information from ECG and investigating its application for sleep apnea detection.
+During my Master's studies, I worked on biological signal processing with my thesis especially focused on the extraction of respiratory information from ECG signals and investigating its application for sleep apnea detection.
 
 
 
