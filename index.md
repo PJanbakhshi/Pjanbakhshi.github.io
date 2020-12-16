@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Hi, I am Parvaneh
+title: Hi, I am Parvaneh
+subtitle: About me
 cover-img: ["/assets/my_img/photo_2020-12-16_18-47-03.jpg", "assets/my_img/photo_2020-12-16_18-48-47.jpg"]
 ---
 
