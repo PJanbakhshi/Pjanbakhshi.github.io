@@ -14,13 +14,9 @@ author: PJ
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Education: "aboutme"
   Publication: "publication"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contact: "aboutme"
 
 # --- Logo --- #
 
