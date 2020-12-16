@@ -3,7 +3,6 @@ layout: page
 title: Research Background
 subtitle: My main research work during my studies
 ---
-<br />
 
 My current research:
 
