@@ -17,7 +17,14 @@ My previous research:
 
 During my Master's studies, I worked on biological signal processing with my Master's thesis especially being focused on the extraction of respiratory information from ECG signals and investigating its application for sleep apnea detection. I worked on Gaussian Process modeling and phase space reconstruction methods to extract respiration estimation from single-lead ECG, and also I developed a sleep apnea detection system based on ECG information. During a research internship on a neuroscience project, I also worked on investigating the phase amplitude coupling in the extracellular neural activity recordings.
 
-### Notification
+### Research 
 
 {: .box-note}
-**Note:** This is a notification box.
+-This is a notification box.
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
