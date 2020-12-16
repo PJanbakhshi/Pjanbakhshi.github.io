@@ -5,7 +5,7 @@ title: Education
 
 
 
-* <p align="justify">Doctor of Philosophy (PhD) in Electrical Engineering (in progress), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 2018-2022</p>
+* <p align="justify">Doctor of Philosophy (PhD) in Electrical Engineering (in progress), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 2018-2022<p>
    * <p align="justify">Thesis: Automatic intelligibility assessment, detection, and classification of pathological speech</p>
 
 * <p align="justify">Master of Science in Bioelecrtical Engineering, Sharif University of Technology, Tehran, Iran, 2014-2016</p>
