@@ -1,10 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go 
+title: research Experience
+subtitle: My main research work during my studies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+
+
+| :blue_book:   | PhD Thesis    |
+|---------------|:------------------------|
+
+PhD Thesis Automatic intelligibility assessment, detection, and classification of pathological speech
 
 - I 
 - I'm extremely loyal to my family
@@ -13,4 +18,4 @@ What else do you need?
 
 ### My story
 
-To be honest,
+To be honest,:orange_book:
