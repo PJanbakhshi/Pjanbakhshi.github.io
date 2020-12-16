@@ -1,10 +1,15 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me so...? can it be updated
+title: About me
+subtitle: Hi, I am Parvaneh
 ---
-My name is Inigo Montoya. I have the following qualities:
 
+I am a research assistant in the Speech group at Idiap Research Institute, Martigny, and I am also a PhD candidate affiliated at the Electrical Engineering doctoral program of EPFL, Switzerland.
+
+My PhD research is funded by the interdisciplinary MoSpeeDi project, which aims to study motor speech disorders by automatic speech analyses such as objective pathological intelligibility assessment, speech pathology detection, and classification. More precisely, the purpose is to develop novel and reliable signal processing and machine learning approaches generalizable to different pathological conditions and languages
+
+
+[MoSpeeDi](https://www.unige.ch/fapse/mospeedi/)
 - I rock a great mustache
 - I'm extremely loyal to my family
 
