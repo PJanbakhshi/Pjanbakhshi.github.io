@@ -13,6 +13,7 @@ author: Paravneh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Research Experience: "aboutme"
   Education: "aboutme"
   Publication: "publication"
   Contact: "aboutme"
@@ -36,14 +37,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
+  email: "parvaneh.janbakhshi@epfl.ch"
+# facebook: deanattali
+# github: daattali
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: c/daattali
+# reddit: yourname
+  linkedin: "https://www.linkedin.com/in/parvaneh-janbakhshi/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
