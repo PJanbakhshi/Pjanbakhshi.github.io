@@ -13,6 +13,3 @@ Research Interests
 - Machine Learning
 - Biological Signal Processing
 
-What else do you need?
-
-### My story again 
