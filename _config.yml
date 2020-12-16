@@ -13,9 +13,9 @@ author: Paravneh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research Experience: "ResearchExperience"
+  Research: "ResearchExperience"
   Education: "Education"
-  Publication: "publication"
+  Publications: "publication"
   Contact: "Contact"
 
 # --- Logo --- #
