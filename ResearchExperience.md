@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Background
-subtitle: My main research work during my studies
+title: Research
+subtitle: My research background
 ---
 
 My current research:
