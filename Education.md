@@ -4,9 +4,8 @@ title: Education
 ---
 
 
-should work
 <p align="justify">
- My name is Inigo Montoya. I have the following qualities Lorem ipsum My name is Inigo Montoya. I have the following qualities Lorem ipsum My name is Inigo Montoya. I have the following qualities Lorem ipsum My name is Inigo Montoya. I have the following qualities Lorem ipsum My name is Inigo Montoya. I have the following qualities Lorem ipsum My name is Inigo Montoya. I have the following qualities Lorem ipsum My name is Inigo Montoya. I have the following qualities Lorem ipsum
+- Doctor of Philosophy (PhD) in Electrical Engineering, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
 </p>
 :
 
