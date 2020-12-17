@@ -4,7 +4,7 @@ title: Education
 ---
 
 
-<font size="3">
+<font size="4">
 <p align="justify">
 <i class="fas fa-university"></i> Doctor of Philosophy (PhD) in Electrical Engineering (in progress), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 2018-2022
 <br />
