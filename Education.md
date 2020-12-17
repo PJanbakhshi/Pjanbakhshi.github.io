@@ -8,7 +8,7 @@ title: Education
 <p align="justify">
 <i class="fas fa-university"></i> Doctor of Philosophy (PhD) in Electrical Engineering (in progress), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 2018-2022
 <br />
-&nbsp;&nbsp;<i class="fas fa-book-open"></i> Thesis: Automatic intelligibility assessment, detection, and classification of pathological speech
+<i class="fas fa-book-open"></i> Thesis: Automatic intelligibility assessment, detection, and classification of pathological speech
 </p>
 
 <!-- <a class="btn btn-outline-success"><i class="fas fa-book-open" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp; ThesisR</a> -->
