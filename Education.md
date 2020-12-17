@@ -4,7 +4,7 @@ title: Education
 ---
 
 
-
+<font size="3">
 <p align="justify">
 <i class="fas fa-university"></i> Doctor of Philosophy (PhD) in Electrical Engineering (in progress), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 2018-2022
 <br />
@@ -29,3 +29,4 @@ title: Education
 &nbsp;&nbsp;<i class="fas fa-book-open"></i> Thesis: Designing and implementing an automatic neuromuscular electro-stimulation device to prevent diseases such as deep vein thrombosis and varicose veinsn
 </p>
 
+</font>
