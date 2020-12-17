@@ -15,7 +15,7 @@ title: Education
 
 <br />
 
-* <p align="justify">
+<p align="justify">
 <i class="fas fa-university"></i> Master of Science in Bioelecrtical Engineering, Sharif University of Technology, Tehran, Iran, 2014-2016
 <br />
 &nbsp;&nbsp;<i class="fas fa-book-open"></i> Thesis: Extraction of respiratory information from ECG and its application for sleep apnea detection
@@ -23,7 +23,7 @@ title: Education
    
 <br />
 
-* <p align="justify">
+<p align="justify">
 <i class="fas fa-university"></i> Bachelor of Science in Bioelecrtical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran, 2009-2014
 <br />   
 &nbsp;&nbsp;<i class="fas fa-book-open"></i> Thesis: Designing and implementing an automatic neuromuscular electro-stimulation device to prevent diseases such as deep vein thrombosis and varicose veinsn
