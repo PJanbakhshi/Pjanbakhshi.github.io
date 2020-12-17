@@ -18,7 +18,7 @@ title: Education
 <p align="justify">
 <i class="fas fa-university"></i> Master of Science in Bioelecrtical Engineering, Sharif University of Technology, Tehran, Iran, 2014-2016
 <br />
-&nbsp;&nbsp;<i class="fas fa-book-open"></i> Thesis: Extraction of respiratory information from ECG and its application for sleep apnea detection
+<i class="fas fa-book-open"></i> Thesis: Extraction of respiratory information from ECG and its application for sleep apnea detection
 </p>
    
 <br />
