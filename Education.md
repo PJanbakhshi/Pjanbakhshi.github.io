@@ -26,7 +26,7 @@ title: Education
 <p align="justify">
 <i class="fas fa-university"></i> B.Sc. in Bioelecrtical Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran, 2009-2014
 <br />   
-<i class="fas fa-book-open"></i> Thesis: Designing and implementing an automatic neuromuscular electro-stimulation device to prevent diseases such as deep vein thrombosis and varicose veinsn
+<i class="fas fa-book-open"></i> Thesis: Designing and implementing an automatic neuromuscular electro-stimulation device to prevent diseases such as deep vein thrombosis and varicose veins
 </p>
 
 </font>
