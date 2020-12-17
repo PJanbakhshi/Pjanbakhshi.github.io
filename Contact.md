@@ -14,9 +14,3 @@ For Contacting me:
   <i class="fas fa-map-marker-alt"></i> 
 </span>
 &nbsp;&nbsp;&nbsp;Idiap Research Institue, Rue Marconi 19, 1920 Martigny, Switzerland
-
-
-
-### My story
-
-To be honest,
