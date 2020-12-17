@@ -10,6 +10,7 @@ For Contacting me:
 </span>
 &nbsp;&nbsp;&nbsp;Paravneh.janbakhshi@epfl.ch
 
+<br />
 
 <span style="font-size: 30px; color: Dodgerblue;">
   <i class="fas fa-map-marker-alt"></i> 
