@@ -3,7 +3,7 @@ layout: page
 title: Contact 
 ---
 
-For Contacting me:
+For contacting me:
 
 <span style="font-size: 30px; color: Dodgerblue;">
   <i class="fas fa-at"></i> 
