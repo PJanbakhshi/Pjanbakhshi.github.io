@@ -14,7 +14,7 @@ My name is Inigo Montoya. I have the following qualities:
   <i class="fas fa-at"></i>
 </span>
 
-span style="font-size: 3em; color: Tomato;">
+<span style="font-size: 3em; color: Tomato;">
   <i class="fas fa-at"></i>
 </span>
 
