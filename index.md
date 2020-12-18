@@ -2,7 +2,7 @@
 layout: page
 title: Hi, I am Parvaneh
 subtitle: About me
-cover-img: ["/assets/my_img/photo_2020-12-16_18-47-05-2.jpg", "/assets/my_img/photo_2020-12-16_18-47-05.jpg", "/assets/my_img/photo_2020-12-16_18-48-47.jpg", "/assets/my_img/photo_2020-12-17_23-45-22.jpg", "/assets/my_img/photo_2020-12-17_23-41-30.jpg"]
+cover-img: ["/assets/my_img/photo_2020-12-16_18-47-05-2.jpeg", "/assets/my_img/photo_2020-12-16_18-47-05.jpg", "/assets/my_img/photo_2020-12-16_18-48-47.jpg", "/assets/my_img/photo_2020-12-17_23-45-22.jpg", "/assets/my_img/photo_2020-12-17_23-41-30.jpg"]
 ---
 
 <p align="justify">
