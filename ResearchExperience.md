@@ -24,5 +24,5 @@ For my Bachelor's thesis, I worked on designing and implementing a medical devic
 </p>
 
 {: .box-note}
-Biological Signal Processing, Machine Learning, Neuroscience, Hardware design
+Biological Signal Processing, Machine Learning, Neuroscience, Hardware Design
 
