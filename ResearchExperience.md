@@ -20,7 +20,7 @@ My previous research:
 
 <p align="justify">
 During my Master's studies, I worked on biological signal processing with my Master's thesis especially being focused on the extraction of respiratory information from ECG signals and investigating its application for sleep apnea detection. I worked on Gaussian Process modeling and phase space reconstruction methods to extract respiration estimation from ECG, and also I developed a sleep apnea detection system based on ECG information.
-For my Bachelor's thesis, I worked on designing and implementing a medical device for preventing Varicose and DVT conditions based on prolonged immobility detection in legs and applying neuromuscular electrical stimulation when needed (patented in Iran). During a research internship on a neuroscience project, I also worked on investigating the phase-amplitude coupling in the extracellular neural activity recordings.
+For my Bachelor's thesis, I worked on designing and implementing a medical device for preventing Varicose and DVT conditions based on prolonged immobility detection in legs and applying neuromuscular electrical stimulation when needed (patented in Iran). During a research internship for a neuroscience project, I also worked on investigating the phase-amplitude coupling in the extracellular neural activity recordings.
 </p>
 
 {: .box-note}
