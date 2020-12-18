@@ -6,7 +6,7 @@ cover-img: ["/assets/my_img/photo_2020-12-16_18-47-05.jpg", "/assets/my_img/phot
 ---
 
 <p align="justify">
-I am a research assistant in the <a href="https://www.idiap.ch/en/scientific-research/speech-and-audio-processing">Speech group at Idiap Research Institute</a>, Martigny, and I am also a Ph.D. candidate affiliated with the Electrical Engineering doctoral program of EPFL, Switzerland. My supervisor is Prof. Hervé Bourlard.
+I am a research assistant in the <a href="https://www.idiap.ch/en/scientific-research/speech-and-audio-processing">Speech group at Idiap Research Institute</a>, Martigny, and I am also a Ph.D. candidate affiliated with the Electrical Engineering doctoral program of EPFL, Switzerland. My supervisors are Prof. Hervé Bourlard and Dr. Ina Kodrasi.
 </p>
 
 <p align="justify">
