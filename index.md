@@ -10,7 +10,7 @@ I am a research assistant in the <a href="https://www.idiap.ch/en/scientific-res
 </p>
 
 <p align="justify">
-Currently, I am working on automatic speech analysis for medical applications, i.e., pathological speech intelligibility assessment, speech pathology assessment and detection. My Ph.D. research is funded by the interdisciplinary <a href="https://www.unige.ch/fapse/mospeedi/">MoSpeeDi</a> project on studying motor speech disorders.
+Currently, I am working on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection. My Ph.D. research is funded by the interdisciplinary <a href="https://www.unige.ch/fapse/mospeedi/">MoSpeeDi</a> project on studying motor speech disorders.
 </p>
 <br />
 My Research Interests:
