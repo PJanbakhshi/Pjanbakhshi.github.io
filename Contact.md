@@ -8,7 +8,7 @@ For contacting me:
 <span style="font-size: 30px; color: Dodgerblue;">
   <i class="fas fa-at"></i> 
 </span>
-&nbsp;&nbsp;&nbsp;Paravneh.janbakhshi@epfl.ch
+&nbsp;&nbsp;&nbsp;parvaneh.janbakhshi@epfl.ch
 <br />
 <span style="font-size: 30px; color: Dodgerblue;">
   <i class="fas fa-map-marker-alt"></i> 
