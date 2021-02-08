@@ -18,9 +18,9 @@ For contacting me:
 <br />
 
 <span style="font-size: 30px; color: Dodgerblue;">
-  <i class="fas fa-map-marker-alt"></i> 
+  <i class="fas fa-phone-square-alt"></i>
 </span>
-&nbsp;&nbsp;&nbsp; Office: 304-1
+&nbsp;&nbsp;&nbsp; Office: 304-1 <br />
 &nbsp;&nbsp;&nbsp;Idiap Research Institue, Rue Marconi 19, 1920 Martigny, Switzerland
 <br />
 
