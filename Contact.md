@@ -10,11 +10,17 @@ For contacting me:
 </span>
 &nbsp;&nbsp;&nbsp;parvaneh.janbakhshi@epfl.ch
 <br />
+
+<span style="font-size: 30px; color: Dodgerblue;">
+  <i class="fas fa-at"></i> 
+</span>
+&nbsp;&nbsp;&nbsp;+41277217716
+<br />
+
 <span style="font-size: 30px; color: Dodgerblue;">
   <i class="fas fa-map-marker-alt"></i> 
 </span>
-&nbsp;&nbsp;&nbsp;<strong>Tel:</strong> +41277217716        <br>  <strong>Office:</strong> 304-1
-
+&nbsp;&nbsp;&nbsp; Office: 304-1
 &nbsp;&nbsp;&nbsp;Idiap Research Institue, Rue Marconi 19, 1920 Martigny, Switzerland
 <br />
 
