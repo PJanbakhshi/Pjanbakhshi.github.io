@@ -15,6 +15,6 @@ Currently, I am working on automatic speech analysis for medical applications, e
 <br />
 My Research Interests:
 - Audio and Speech Signal Processing
-- Machine Learning
+- Machine Learning and Deep Learning
 - Biological Signal Processing
 
