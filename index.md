@@ -18,3 +18,6 @@ My Research Interests:
 - Machine Learning and Deep Learning
 - Biological Signal Processing
 
+<br />
+<br />
+You can my my cv <a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/cv.pdf">here</a>
