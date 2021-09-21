@@ -20,4 +20,4 @@ My Research Interests:
 
 <br />
 <br />
-You can also find my cv <a href="docs/cv_github.pdf?raw=1">here</a> (last update: September 2021)
+You can also find my cv <a href="docs/cv_github.pdf">here</a> (last update: September 2021)
