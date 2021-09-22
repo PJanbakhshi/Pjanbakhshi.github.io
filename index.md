@@ -20,4 +20,4 @@ My Research Interests:
 
 <br />
 <br />
-You can find my cv <a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/cv_github.pdf?raw=1">here</a> (last update: September 2021)
+You can find my cv <a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/cv_github.?raw=1">here</a> (last update: September 2021)
