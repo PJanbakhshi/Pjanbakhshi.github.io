@@ -8,7 +8,7 @@ For contacting me:
 <span style="font-size: 30px; color: Dodgerblue;">
   <i class="fas fa-at"></i> 
 </span>
-&nbsp;&nbsp;&nbsp;parvaneh.janbakhshi@bayer.ch
+&nbsp;&nbsp;&nbsp;parvaneh.janbakhshi@bayer.com
 <br />
 
 
