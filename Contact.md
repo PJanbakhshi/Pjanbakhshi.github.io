@@ -15,7 +15,6 @@ For contacting me:
 <span style="font-size: 30px; color: Dodgerblue;">
 <i class="fas fa-map-marker-alt"></i>
 </span>
-&nbsp;&nbsp;&nbsp; Office 304-1 <br />
 &nbsp;&nbsp;&nbsp;Bayer AG, Berlin, Germany
 <br />  
 
