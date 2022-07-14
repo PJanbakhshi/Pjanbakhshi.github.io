@@ -11,11 +11,6 @@ For contacting me:
 &nbsp;&nbsp;&nbsp;parvaneh.janbakhshi@bayer.ch
 <br />
 
-<span style="font-size: 30px; color: Dodgerblue;">
- <i class="fas fa-phone-square-alt"></i>
-</span>
-&nbsp;&nbsp;&nbsp;+41277217716
-<br />
 
 <span style="font-size: 30px; color: Dodgerblue;">
 <i class="fas fa-map-marker-alt"></i>
