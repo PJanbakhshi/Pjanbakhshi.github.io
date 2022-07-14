@@ -4,11 +4,11 @@ title: Research
 subtitle: My research background
 ---
 
-My current research:
+My PhD research:
 
 <p align="justify">
 Automatic pathological speech assessment can provide reliable and cost-effective computer-aided tools to assist the clinical diagnosis and management of speech disorders. Among such automatic analyses are speech intelligibility assessments and speech pathology detection, i.e.,  discriminating between normal and pathological speech.
-For my Ph.D. research, I am working on developing reliable and novel machine learning and signal processing techniques for analysing continuous speech for healthcare applicable to different pathological conditions and languages.
+For my Ph.D. research, I worked on developing reliable and novel machine learning and signal processing techniques for analysing continuous speech for healthcare applicable to different pathological conditions and languages.
 </p>
 
 {: .box-note}
