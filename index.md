@@ -6,12 +6,10 @@ cover-img: [ "/assets/my_img/photo_2020-12-17_23-41-30.jpg", "/assets/my_img/pho
 ---
 
 <p align="justify">
-I am a research assistant in the <a href="https://www.idiap.ch/en/scientific-research/speech-and-audio-processing">Speech group at Idiap Research Institute</a>, Martigny, and I am also a Ph.D. candidate affiliated with the Electrical Engineering doctoral program of EPFL, Switzerland. My supervisors are Prof. Hervé Bourlard and Dr. Ina Kodrasi.
+I am a data scentist at Bayer AG, Berlin, Germany. Until recently, I worked towards a PhD on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection.
 </p>
 
-<p align="justify">
-Currently, I am working on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection. My Ph.D. research is funded by the interdisciplinary <a href="https://www.unige.ch/fapse/mospeedi/">MoSpeeDi</a> project on studying motor speech disorders.
-</p>
+
 <br />
 My Research Interests:
 - Audio and Speech Signal Processing
@@ -20,4 +18,4 @@ My Research Interests:
 
 <br />
 <br />
-You can find my cv <a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/cv_github.pdf?raw=1">here</a> (last update: April 2022) 
+You can find my cv <a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/cv_github.pdf?raw=1">here</a> (last update: July 2022) 
