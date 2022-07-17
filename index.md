@@ -6,7 +6,7 @@ cover-img: [ "/assets/my_img/photo_2020-12-17_23-41-30.jpg", "/assets/my_img/pho
 ---
 
 <p align="justify">
-I am a data scentist at Bayer AG, Berlin, Germany. Until recently, I worked towards a PhD on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection.
+I am a data scientist at Bayer AG, Berlin, Germany. Until recently, I worked towards a PhD on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection.
 </p>
 
 
