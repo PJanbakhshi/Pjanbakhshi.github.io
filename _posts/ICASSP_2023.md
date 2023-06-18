@@ -1,0 +1,35 @@
+---
+layout: post
+title: On using the UA-Speech and TORGO databases to validate \\ automatic dysarthric speech classification approaches
+subtitle:  ICASSP, 2023
+thumbnail-img: /assets/paper_files/ICASSP2022.png
+share-img: /assets/paper_files/ICASSP2022.png
+tags: [PD, dysarthria, convolutional neural network, self-supervised learning, TORGO, UA-Speech, noise, SNR]
+---
+
+<p align="justify">
+Abstract:<br />
+Although the UA-Speech and TORGO databases of control and dysarthric speech are invaluable resources made available to the research community with the objective of developing robust automatic speech recognition systems, they have also been used to validate a considerable number of automatic dysarthric speech classification approaches. Such approaches typically rely on the underlying assumption that recordings from control and dysarthric speakers are collected in the same noiseless environment using the same recording setup. In this paper, we show that this assumption is violated for the UA-Speech and TORGO databases. Using voice activity detection to extract speech and non-speech segments, we show that the majority of state-of-the-art dysarthria classification approaches achieve the same or a considerably better performance when using the non-speech segments of these databases than when using the speech segments. These results demonstrate that such approaches trained and validated on the UA-Speech and TORGO databases are potentially learning characteristics of the recording environment or setup rather than dysarthric speech characteristics. We hope that these results raise awareness in the research community about the importance of the quality of recordings when developing and evaluating automatic dysarthria classification approaches.
+</p>
+
+<br />
+
+
+<span>Type:&nbsp;&nbsp;&nbsp;</span>
+<a class="btn btn-outline-success"><i class="fas fa-book-open" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;CONFERENCE PAPER</a>
+<br />
+<br />
+
+
+<span>Links:&nbsp;&nbsp;&nbsp;</span>
+<a href="https://ieeexplore.ieee.org/abstract/document/10095981/" class="btn btn-outline-success"><i class="fas fa-link" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;DOI</a>
+<a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/icassp2023.pdf" class="btn btn-outline-success"><i class="far fa-file-pdf" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;SLIDES</a>
+<a href="" class="btn btn-outline-success"><i class="far fa-file-pdf" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;POSTER</a>
+<a href="" class="btn btn-outline-success"><i class="fas fa-code" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;CODES</a>
+<!--
+<a href="https://ieeexplore.ieee.org/abstract/document/9054765" class="btn btn-outline-success"><i class="fas fa-link" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;DOI</a>
+<a href="https://github.com/PJanbakhshi/Pjanbakhshi.github.io/blob/master/docs/PESTO-S_slides.pdf" class="btn btn-outline-success"><i class="far fa-file-pdf" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;SLIDES</a> 
+-->
+
+
+
