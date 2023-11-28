@@ -6,7 +6,8 @@ cover-img: [ "/assets/my_img/photo_2020-12-17_23-41-30.jpg", "/assets/my_img/pho
 ---
 
 <p align="justify">
-I am a data scientist at Bayer AG, Berlin, Germany. Until recently, I worked towards a PhD on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection.
+I am a data scientist at Bayer AG, Berlin, Germany. Currently I am working on projects related to MRI contrast enhancement and voice biomarkers.
+My research interests are speech and audio signal processing (for clinical applications), machine learning and deep learning and biological signal processing. Until 2022, I worked towards a PhD on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection.
 </p>
 
 
