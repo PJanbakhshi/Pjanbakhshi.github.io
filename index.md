@@ -6,14 +6,14 @@ cover-img: [ "/assets/my_img/photo_2020-12-17_23-41-30.jpg", "/assets/my_img/pho
 ---
 
 <p align="justify">
-I am a data scientist at Bayer AG, Berlin, Germany. Currently I am working on projects related to MRI contrast enhancement and voice biomarkers.
-My research interests are speech and audio signal processing (for clinical applications), machine learning and deep learning and biological signal processing. Until 2022, I worked towards a PhD on automatic speech analysis for medical applications, e.g., pathological speech intelligibility assessment and speech pathology detection.
+I have been a data scientist at Bayer since 2022 contributing to projects related to Liver MRI contrast enhancement and voice biomarkers. I hold a PhD from EPFL (Swiss Federal Technology Institute of Lausanne) focused on automatic speech analysis for medical applications.
 </p>
 
 
 <br />
 My Research Interests:
-- Audio and Speech Signal Processing
+- Audio and Speech Signal Processing for Medical Applications
+- Medical Image Processing
 - Machine Learning and Deep Learning
 - Biological Signal Processing
 
