@@ -6,7 +6,7 @@ cover-img: [ "/assets/my_img/photo_2020-12-17_23-41-30.jpg", "/assets/my_img/pho
 ---
 
 <p align="justify">
-I have been a Sr. data scientist at Bayer, contributing to projects related to liver MRI contrast enhancement, adverse event detection, and voice biomarkers. I hold a PhD from EPFL (Swiss Federal Technology Institute of Lausanne) focused on automatic speech analysis for medical applications.
+I am a Sr. data scientist at Bayer, contributing to projects related to liver MRI contrast enhancement, adverse event detection, and voice biomarkers. I hold a PhD from EPFL (Swiss Federal Technology Institute of Lausanne) focused on automatic speech analysis for medical applications.
 </p>
 
 
