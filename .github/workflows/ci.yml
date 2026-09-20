@@ -13,5 +13,6 @@ jobs:
             -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
             -e PAGES_REPO_NWO=${{ github.repository }} \
             jekyll/builder:latest /bin/bash -c "
+            git config --global --add safe.directory /srv/jekyll && \
             chmod 777 /srv/jekyll && \
             jekyll build --future"
